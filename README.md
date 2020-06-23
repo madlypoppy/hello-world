@@ -2,3 +2,5 @@
 Learning Git
 Hello,
 I'm Maddy and will be learning Python from scratch soon. First, I'm just getting acquainted with Git. 
+
+Gonna try and add something to this branch locally. 
